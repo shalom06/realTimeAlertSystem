@@ -22,6 +22,9 @@ Flow of code
 
 
 
+<img src="https://user-images.githubusercontent.com/10242289/45257948-ffd7b780-b36b-11e8-98ac-c39fc7c88dde.png" width="15%"></img> 
+
+
 
 
 
